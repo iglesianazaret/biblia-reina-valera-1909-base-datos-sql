@@ -1,2 +1,2 @@
-# biblia-reina-valera-1909-sql
-Biblia Reina Valera de 1909 (normalizada) en formato SQL
+# Biblia Reina Valera 1909 (normalizada)
+Base de datos en formato SQL
